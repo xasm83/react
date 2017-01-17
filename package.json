@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "4.2.x",
+    "body-parser": "1.10.2",
+    "serve-static": "x"
+  },
+  "name": "react"
+}
